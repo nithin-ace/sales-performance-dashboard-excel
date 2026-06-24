@@ -10,7 +10,7 @@ The dashboard was built using data cleaning, Pivot Tables, Pivot Charts, KPI rep
 
 ## Dashboard Preview
 
-![Dashboard](screenshots/dashboard.png)
+/Dashboard.png
 
 ---
 
