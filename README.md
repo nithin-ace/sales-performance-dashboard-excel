@@ -61,3 +61,15 @@ The dashboard was built using data cleaning, Pivot Tables, Pivot Charts, KPI rep
 - Dashboard Development
 - Business Intelligence
 - Reporting
+
+---
+
+## Project Workflow
+
+1. Imported raw sales dataset.
+2. Verified data quality and consistency.
+3. Cleaned and validated records.
+4. Performed sales and profit analysis using Pivot Tables.
+5. Created KPI metrics and visualizations.
+6. Built an interactive Excel dashboard.
+7. Derived business insights from the analyzed data.
